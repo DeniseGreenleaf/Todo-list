@@ -1,0 +1,50 @@
+body{
+    background: #352f5b;
+}
+
+.container{
+    max-width: 400px;
+}
+input[type=text],
+input[type=text]:focus{
+    color: #fff;
+    border: none;
+    background: rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+}
+/* Nytt för att markera klara todos */
+.todos li.done span {
+    text-decoration: line-through;
+    color: #aaa;
+}
+
+.todos li{
+    background: #423a6f;
+}
+
+.delete{
+    cursor: pointer;
+}
+
+.filtered{
+    display: none !important;
+}
+
+.todos li {
+    background: #423a6f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.todos li i {
+    cursor: pointer;
+    margin-left: 5px;
+    transition: color 0.2s ease;
+}
+
+.todos li i:hover {
+    color: #fff;
+}
