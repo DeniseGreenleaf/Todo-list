@@ -14,7 +14,6 @@ The app allows users to add, delete, mark as completed, and reorder todos. It al
 - **HTML5** – Semantic structure for accessibility and clean markup.  
 - **CSS3** – Styling, responsive design, and visual feedback for completed todos    
 - **Vanilla JavaScript (ES6)** – DOM manipulation, event handling, and logic for todo operations. 
-- Fetch API / REST API – communication with TheCocktailDB API
 - localStorage – Persists todos and completed status in the browser.
 - Git & GitHub – version control and code hosting
 - Netlify – deployment and live hosting
