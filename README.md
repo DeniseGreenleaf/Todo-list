@@ -6,7 +6,7 @@ The app allows users to add, delete, mark as completed, and reorder todos. It al
 ---
 
 ## 🚀 Live Demo
-👉 **[Try the app on Netlify](denise-todo-list-app.netlify.app)**  
+👉 **[Try the app on Netlify](https://denise-todo-list-app.netlify.app)**  
 
 ---
 
